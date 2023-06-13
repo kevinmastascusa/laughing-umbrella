@@ -18,3 +18,14 @@ You can install `laughing-umbrella` from GitHub using the `devtools` package:
 
 ```R
 devtools::install_github("your-username/laughing-umbrella")
+```
+
+## Usage
+```R
+#Usage 
+```
+
+```R
+# Example code demonstrating the usage of the package
+library(laughing-umbrella)
+```
